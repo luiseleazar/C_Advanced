@@ -1,0 +1,10 @@
+#Ignore all .exe documents
+*.exe
+
+#Ignore all .o documents
+*.o
+
+#Ignore all documents without extension
+*
+!/**/
+!*.*
